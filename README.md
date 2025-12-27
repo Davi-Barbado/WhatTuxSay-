@@ -5,6 +5,7 @@
 # Depencies
 ## GCC
 ## FORTUNE
-## FORTUNE BRASIL(only arch)
+## FORTUNE BRASIL(only arch) install with:
+### "yay -S fortune-mod-br"
 # Very IMPORTANT 
-## Now WhatTuxSay is only in portuguese and the fortune Brasil Font is only on arch linux shortly i add the English version and turn it global in all Distros(majority)t
+## Now WhatTuxSay is only in portuguese and the fortune Brasil Font is only on arch linux shortly i add the English version and turn it global in all Distros(majority)
