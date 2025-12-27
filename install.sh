@@ -13,6 +13,7 @@ echo "moving to home"
 mv .TuxSay ~
 echo "configure start on open"
 cd
+echo "cd" >> .bashrc
 echo "clear" >> .bashrc
 echo "./.TuxSay" >> .bashrc
 echo "install COMPLETE, To remove Use uninstall.sh"
