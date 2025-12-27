@@ -1,3 +1,5 @@
+<img width="820" height="335" alt="image" src="https://github.com/user-attachments/assets/42a7dd39-3f90-4424-805b-d69ccbc09917" />
+
 # Whats is This?
 ## WhatTuxSay It's a terminal program that allows you to see a message whenever you open the terminal.
 # How Install
